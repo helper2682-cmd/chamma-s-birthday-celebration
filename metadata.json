@@ -1,0 +1,6 @@
+{
+  "name": "Chamma's Birthday Celebration",
+  "description": "A custom, premium birthday surprise crafted for Chamma — featuring interactive awards, memory lane, wish-making cake, and celebration vibes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
